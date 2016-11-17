@@ -12,7 +12,7 @@ TODO: migrate TODOs from code to issues and realize.
  * python. e.g. on Mac: `brew install python`
  * JSON feeds only: 
    * yajl native iterative json library (faster): `brew install yajl`
-   * some python modules: `pip install ijson cffi mmh3`
+   * some python modules: `pip install ijson cffi mmh3 jsonpath-rw`
 
 ## Usage
 
