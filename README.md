@@ -5,6 +5,9 @@ python programs that extract changes and deletions from raw CSV or JSON data dum
 You typically need this to more efficiently realize a mirror database or system integration, 
 but the master / source system is not able to provide clean delta / diff exports (or not with deletion information). 
 
+In addition to the generic CSV and JSON commands the repository contains an example script that is parsing
+a custom nested JSON. 
+
 TODO: migrate TODOs from code to issues and realize. 
 
 ## System Requirements
